@@ -24,3 +24,7 @@ https://www.dailymotion.com/video/x84eirw
 
 #EXTINF:-1 ,RTP
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w1297021740.m3u8
+
+
+#EXTINF:-1 ,UNITEL
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZKh2o5obkcn50s0i3qhfamI76eqnv1FS7N0G_3sLeRE)/dm/3/x7vsfua/d/live-3.m3u8#cell=lnyc
