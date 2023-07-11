@@ -39,3 +39,29 @@ https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CuYFPA9NjxT_5E3MlaTib5fLBmz
 
 #EXTINF:-1 ,Retro TV
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CvQFGT3pIhiD_p5atgUUydx-CFfyuBZ3wR9gusKEJdm6YaXGB5ZQMvsoU9IzpquCE3Wgs90sn9lANDoxGCTMKUPXzumtmFkeXy1dGsY4iXRaKJhiLXyPuo2OuW2TC0U2Xd33astu8kWB6ONBhE607g-NjUZmP39xMDNlBV8yL0qrwSMFZbVxUBlOjIdlSoJCxpiRrWreF1-QeBOTuZ1qac0jUcRVum0_p4U8cADpVROItGPbqAhadJfTByCnhmBKIbLitFUM_amc1uzLUKRHZKmbKU0Q5DhrJsNx4Vefd8wTpD_CZ-37H455roZUTNj7FgbEUsjHuZZVk6JUc_QvA1AKqhg5dGEnEaKL_UX2r7RP3PTnB6GKthqgKlx2M9oy1YOY3BoAcIz4xwcXhFPflaQsgrpvzuzV5tA7KIkylk4P3uyKOkjYVhFbDBCeoVkKicUo4ND9cQbqFQ_ZZbW4UgW2of0jkcRh92rGF-03i2GegIjZPgsy5UpbmiVJNa-ZvJ5yjN3ABlsE5vYZEvo53kR73ghEzUr6Er_tc96B-0J9uORTWeRz5t1LeWuTzbtHhzHsKYXYbhTnGUhCNgsW6N4UtLUnndqFLwSE2Z4-KULjx0RB93WZWEx2icTKa7gS9RbjEd9zRA8Nnso2-UxB9khn_Cd734TZ62UCZiuTJ8jPzEgDuWqDyeOvvhdwE-XgWkk5SVFoUH9PhH1Sx6dMU1G9a7XtgCTKDiLmbBLj5Dr1X9S3bvtc8CoPzNstsud47pqHY2yNLoU0kS46hMVi5562k2lzVnJVm7bAjqNxf_chDeLX6hOggsyqOZXnOid-QlC0DBGOF0YbW7D87dyFoGzlXPpisYY_pDUlHghqH91_sFuJ2hH2AKf6iycEKgQ9c7svEA7LX-QDqgteGhxwEKyHvuOFLtWrYhevvI6i1aQUmnlfeSrDR753kavsyWGjPjc7bch8eYrI0DFpVD1-Sk8_N71502U9bCN5Q9iFG83XNyc64PnGGgxcCtqzr6RMPGhj338gASoJdXMtZWFzdC0xMLcF.m3u8
+
+
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+
+
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Undefined",El Trece (1080p)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",Esports Max [Not 24/7]
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="General",Las Estrellas Latin America (720p)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
