@@ -7,13 +7,18 @@ https://d3eyooyk041snj.cloudfront.net/hls/live_480p30.m3u8
 
 
 
+#EXTINF:-1 ,UNITEL
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zbk2m_YVlJ8EvQkyYUg4P8dtd1CRCQ3mXTofpuglfgbw)/dm/3/x7vsfua/d/live-3.m3u8
+
+
+
 #EXTINF:-1 ,Red Uno
 https://stream-04.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDiZN8QPCKg2vAfC44zR_gRG7Bd10dcd1lY2iwxr2SsdS)/dm/3/x8ko1ix/d/live-3.m3u8
 
 
 
 #EXTINF:-1 ,PAT
-https://w8.redpat.tv:7777/play/110/64519740.m3u8
+https://w8.redpat.tv:7777/play/120/72313573.m3u8
 
 
 
@@ -24,11 +29,6 @@ https://stream.atb.com.bo/live/daniel/index.m3u8
 
 #EXTINF:-1 ,RTP
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w1297021740.m3u8
-
-
-
-#EXTINF:-1 ,UNITEL
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zbk2m_YVlJ8EvQkyYUg4P8dtd1CRCQ3mXTofpuglfgbw)/dm/3/x7vsfua/d/live-3.m3u8
 
 
 
