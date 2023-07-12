@@ -8,7 +8,7 @@ https://d3eyooyk041snj.cloudfront.net/hls/live_480p30.m3u8
 
 
 #EXTINF:-1 ,UNITEL
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zbk2m_YVlJ8EvQkyYUg4P8dtd1CRCQ3mXTofpuglfgbw)/dm/3/x7vsfua/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2JBte7-tm1Upo9PAprJORAlv0oBT2R9OrecYQHNj2hh)/dm/3/x7wzxiw/s/live-3.m3u8
 
 
 
@@ -17,28 +17,23 @@ https://stream-04.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDiZN8QPCKg2vAfC44z
 
 
 
-#EXTINF:-1 ,PAT
-https://w8.redpat.tv:7777/play/120/72313573.m3u8
+#EXTINF:-1 tvg-id="CadenaA.bo" tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="Undefined",Cadena A (720p)
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 
 
 
-#EXTINF:-1 ,ATB BOLIVIA
-https://stream.atb.com.bo/live/daniel/index.m3u8
+#EXTINF:-1 tvg-id="Erbol.bo" tvg-logo="https://i.imgur.com/hn1KI7t.png" group-title="News",Erbol (720p)
+https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ATB.bo" tvg-logo="https://i.imgur.com/E243X2x.png" group-title="Undefined",ATB (614p) [Not 24/7]
+http://186.121.206.197/live/daniel/index.m3u8
 
 
 
 #EXTINF:-1 ,RTP
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w1297021740.m3u8
-
-
-
-#EXTINF:-1 ,TELENOVELAS
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CuYFPA9NjxT_5E3MlaTib5fLBmzzCEW2NU9MsntlEA_GcMab9HAGZT8Sha5H8Mk40wgxAFo7YQqg6Pry3w8hD7mU3mCrzb63Z_sA40fVdGab5esHsCH7720SX64Xsp8rxrEM1fhijHr2Yyv61WLyi3j-WkfvdXz9r3nssBc_wjDwHy1vCP2_JPNxfttKNxUVkx_OVAMFyR4_I3-YIT8P0qIrrAvf1p1PbYHpQCa8Lb0VLxj0jaOhQ28KUD2DO85AljRuNLo33eIr9ZvHaq7j_vMqRivsCUOVfqo2wDaomMPALwS37xrKBFPb5TxtjEqzHE55LWYEVwSyU6PmEBywbQpjs6DFO6ZeVEGy3LA94PFFiitEmmPL7d5KrKfKMtx63qy8hRNl8q3o6cfZCP8dCZnaHZi1Rn81krebZxmnxFOuxOdeB_IMO9AbDGajTZajtixt5MBlRd4hF5osJS89DJH0MX4i6IsfMzGvHCZpv45BSBk7VKfbJaJe6DIz2C7f743kkcn-jzh_JLROhooYFHeE3UaXQ4PTKGsIR2U19OjFzewmSnv4zz2ESRRt-4IzpgNSG-AVD5LD3LySlu6IBCyxzBWhXdoC9Afs0ODOlaaeQe5zxP8mSCOVGY71BXW4X7NlgDAFb0aCCqcXbMKB66tPT-IPvnsB45DUzD01phvpFj7HdafEvm3L9Q2qOE2E7Z1AH_IRdzRHbYKo6ythjFOSnSd_Dnhtg1fcgT7MCa7yHa2C6lmc7EiCSlbAbdzRzr5N1J4MLfl2ez41e5vVwkUye02dngcWNcX6d2AC4AflxJ5sVIHiQU2DO4rCDKJrppFv8Bg_uXKbYmGaeIyL-s2wi5aFWYZ8Gd9iVsEQxpLjLHw1pP8Eda96-35nBaBrkBlSgk2Szff5WuM7wUQ7fUTHrcY-PrnXqxsXOv_7942RMas8XUnsAWvHV9UQKEuzgIHGuj1qeO6a3v6qnv6iuN3LO7Ae1AhpcRoMV5EStai7dt0YY0LHIAEqCWV1LXdlc3QtMjCCBw.m3u8
-
-
-
-#EXTINF:-1 ,Retro TV
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CvQFGT3pIhiD_p5atgUUydx-CFfyuBZ3wR9gusKEJdm6YaXGB5ZQMvsoU9IzpquCE3Wgs90sn9lANDoxGCTMKUPXzumtmFkeXy1dGsY4iXRaKJhiLXyPuo2OuW2TC0U2Xd33astu8kWB6ONBhE607g-NjUZmP39xMDNlBV8yL0qrwSMFZbVxUBlOjIdlSoJCxpiRrWreF1-QeBOTuZ1qac0jUcRVum0_p4U8cADpVROItGPbqAhadJfTByCnhmBKIbLitFUM_amc1uzLUKRHZKmbKU0Q5DhrJsNx4Vefd8wTpD_CZ-37H455roZUTNj7FgbEUsjHuZZVk6JUc_QvA1AKqhg5dGEnEaKL_UX2r7RP3PTnB6GKthqgKlx2M9oy1YOY3BoAcIz4xwcXhFPflaQsgrpvzuzV5tA7KIkylk4P3uyKOkjYVhFbDBCeoVkKicUo4ND9cQbqFQ_ZZbW4UgW2of0jkcRh92rGF-03i2GegIjZPgsy5UpbmiVJNa-ZvJ5yjN3ABlsE5vYZEvo53kR73ghEzUr6Er_tc96B-0J9uORTWeRz5t1LeWuTzbtHhzHsKYXYbhTnGUhCNgsW6N4UtLUnndqFLwSE2Z4-KULjx0RB93WZWEx2icTKa7gS9RbjEd9zRA8Nnso2-UxB9khn_Cd734TZ62UCZiuTJ8jPzEgDuWqDyeOvvhdwE-XgWkk5SVFoUH9PhH1Sx6dMU1G9a7XtgCTKDiLmbBLj5Dr1X9S3bvtc8CoPzNstsud47pqHY2yNLoU0kS46hMVi5562k2lzVnJVm7bAjqNxf_chDeLX6hOggsyqOZXnOid-QlC0DBGOF0YbW7D87dyFoGzlXPpisYY_pDUlHghqH91_sFuJ2hH2AKf6iycEKgQ9c7svEA7LX-QDqgteGhxwEKyHvuOFLtWrYhevvI6i1aQUmnlfeSrDR753kavsyWGjPjc7bch8eYrI0DFpVD1-Sk8_N71502U9bCN5Q9iFG83XNyc64PnGGgxcCtqzr6RMPGhj338gASoJdXMtZWFzdC0xMLcF.m3u8
 
 
 
@@ -62,5 +57,18 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (720p) [Not 24/7]
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv_720.m3u8
+
+
+
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="General",Las Estrellas Latin America (720p)
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports",FIGHT SPORTS (1080p)
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+
+
+
