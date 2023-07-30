@@ -77,3 +77,27 @@ https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
+#EXTINF:-1 group-title="Bics", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Bics Extra", RCN EXTRA CO
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Bics Extra", 24 HORAS CL
+https://marine2.miplay.cl/24horas/playlist.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento", A&E
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/1
+
+
+
