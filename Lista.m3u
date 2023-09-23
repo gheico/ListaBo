@@ -95,10 +95,8 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:0,Vintage Music (720p)
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-#EXTINF:-1,||AR.OSN|| OSN FIGHT HD
-http://obshd.tv:25461/abdounini1/fGD3x6ATwZra/7747
-#EXTINF:-1,||UK|| FIGHTBOX HD
-http://obshd.tv:25461/abdounini1/fGD3x6ATwZra/1440
+#EXTINF:0,AXS TV NOW
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 
 
 
