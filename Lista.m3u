@@ -1,69 +1,33 @@
 #EXTM3U
-
-
-
 #EXTINF:-1 ,Bolivision
 https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/chunks.m3u8
-
-
-
 #EXTINF:236,Unitel Santa Cruz (1080p) [Not 24/7]
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="CadenaA.bo" tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="Undefined",Cadena A (720p)
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Erbol.bo" tvg-logo="https://i.imgur.com/hn1KI7t.png" group-title="News",Erbol (720p)
-https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ATB.bo" tvg-logo="https://i.imgur.com/E243X2x.png" group-title="Undefined",ATB (614p) [Not 24/7]
 http://186.121.206.197/live/daniel/index.m3u8
-
-
-
 #EXTINF:-1 ,RTP
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w1297021740.m3u8
-
-
-
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
+#EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-
-
-
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Undefined",El Trece (1080p)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",Esports Max [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (720p) [Not 24/7]
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv_720.m3u8
-
-
-
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="General",Las Estrellas Latin America (720p)
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-
-
 #EXTINF:0,Fighting Spirit (720p)
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
+#EXTINF:0,FightTVPlus
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/ZXY8N7D0P26W4DNY1WHH/hls3/now_-1m_15s/m.m3u
+#EXTINF:0,United Fight Alliance
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/8L421BQ0E926VLTDD4YE/hls3/now_-1m_15s/m.m3u
 #EXTINF:0,AXS TV NOW
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entertainment",Estrella TV (1080p)
@@ -84,7 +48,22 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:0,AXS TV NOW
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-
+#EXTINF:0,Galicia TV América (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0,TV União Natal (1080p)
+https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8
+#EXTINF:0,Más TV (720p)
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:0,Memorias TV (480p)
+https://mediacp.us:8081/8002/index.m3u8
+#EXTINF:0,RCN Más (1080p)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0,SEO TV 3 Novelas (1080p)
+https://live.seo.tv.bo/live/3SEO.m3u8
+#EXTINF:0,Tastemade en Español (1080p)
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:0,Tropical Moon Urban TV
+https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
 
 
 
