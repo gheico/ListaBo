@@ -70,8 +70,22 @@ http://45.33.63.98/hls/abdi.m3u8
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:0,UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-
-
+#EXTINF:0,Play TV (720p) [Not 24/7]
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:0,Aysen TV (720p)
+https://v1.tustreaming.cl/aysentv/index.m3u8
+#EXTINF:0,Cosmos TV (720p)
+https://v1.tustreaming.cl/cosmostv/index.m3u8
+#EXTINF:0,Hito Cero Television
+https://5ff3d9babae13.streamlock.net/8018/8018/playlist.m3u8
+#EXTINF:0,PlanetaTV Movie (720p)
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:0,PlanetaTV Music (720p)
+https://scl.edge.grupoz.cl/music/live/music.m3u8
+https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
+#EXTINF:0,MorroTV (414p)
+#EXTINF:0,Pluto TV Investiga (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96b8f4f1ca3f0629f4bf1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=936&terminate=false&userId=
 
 
 
