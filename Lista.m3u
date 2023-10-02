@@ -64,6 +64,12 @@ https://live.seo.tv.bo/live/3SEO.m3u8
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:0,Tropical Moon Urban TV
 https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
+#EXTINF:0,Tu Kanal (1080p)
+http://45.33.63.98/hls/abdi.m3u8
+#EXTINF:0,Tu Universo TV (720p)
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+#EXTINF:0,UCL (720p)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 
 
