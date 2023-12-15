@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-#EXTINF:-0 Bolivision (La Paz)
+#EXTINF:-1 Bolivision (La Paz)
 https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8
 #EXTINF:236,Unitel Santa Cruz (1080p) [Not 24/7]
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="ATB.bo" tvg-logo="https://i.imgur.com/E243X2x.png" group-title="Undefined",ATB (614p) [Not 24/7]
 http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 ,RTP
-https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w1297021740.m3u8
+#EXTINF:-1 ,UNITEL LA PAZ
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZY4EOzNwAvJVV9piCn-EKnHXx_5lpC6bDBSeqmt5thYV)/dm/3/x7vsfua/d/live-3.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
